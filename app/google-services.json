@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "731365573090",
+    "firebase_url": "https://awesomechat-fca4b.firebaseio.com",
+    "project_id": "awesomechat-fca4b",
+    "storage_bucket": "awesomechat-fca4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731365573090:android:2c967915cc87c6efc8f9bb",
+        "android_client_info": {
+          "package_name": "com.example.awesomechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731365573090-toc8l9f2bskuabh0brr9mvj04iu9t6u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.awesomechat",
+            "certificate_hash": "334f005c1a2aa49909904f7f1d3ad147a869cb53"
+          }
+        },
+        {
+          "client_id": "731365573090-f6omhduob41n3q0g7vfr753r1deq55aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhSpHb8Df4xNy_3H6qsJcyS6r1eMxvGkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731365573090-f6omhduob41n3q0g7vfr753r1deq55aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
